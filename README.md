@@ -13,14 +13,6 @@ A final-year Automotive Engineering student with a passion for powertrain system
 
 ---
 
-### 🏎️ Formula Student Powertrain Layout
-- **Tools:** NX CAD, MATLAB
-- **Goal:** Optimise layout for thermal performance and weight distribution
-- **Contribution:** Assisted in integration with carbon monocoque chassis.
-- [View Project Folder](./FS-Powertrain)
-
----
-
 ### 🤖 Automated RC Car Drivetrain
 - **Tools:** Fusion 360, Laser Cutting
 - **Goal:** Design gearing for hill climb and slalom

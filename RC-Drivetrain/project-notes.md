@@ -21,3 +21,4 @@ Designed and developed the drivetrain system for a remote-controlled car as part
 ## 🔗 Files
 
 - [📄 Final Report – Drivetrain Design Summary](./Report.pdf)
+- ![Top View](./RC-Car-TopView.png)

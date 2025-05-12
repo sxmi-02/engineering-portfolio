@@ -20,6 +20,10 @@ Creating a control-based simulation model of a H2ICE in Simulink that accurately
 - Validated the use of hydrogen in conventional ICE platforms.
 - Found feasibility limits for current injector tech at higher combustion speeds.
 
-## Files
-- Simulink model (`.slx`)
-- Technical reports (PDFs)
+## 🔗 Files
+
+- [📘 Report 1 – Model Overview & Objectives](./Report%201.pdf)
+- [📗 Report 2 – Results & Performance Analysis](./Report%202.pdf)
+- [🛠️ Simulink Model – HydICEngine.slx](./HydICEngine.slx)
+- [💻 Run Script – RunModel.m](./RunModel.m)
+

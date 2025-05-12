@@ -37,6 +37,14 @@ A final-year Automotive Engineering student with a passion for powertrain system
 
 ---
 
+### 🧱 Double Wishbone Suspension & Structural Analysis
+- **Tools:** NX CAD, Structural Simulation, Material Indexing
+- **Goal:** Design and validate a double wishbone suspension system for performance applications
+- **Contribution:** Constructed full CAD assembly and analysed components under bending, shear, buckling, and torsion
+- [View Project Folder](./Suspension-Structural-Design)
+
+---
+
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/sami-khan02/)
 - Email: sakhan1805@gmail.com

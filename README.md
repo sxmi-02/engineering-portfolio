@@ -9,7 +9,7 @@ A final-year Automotive Engineering student with a passion for powertrain system
 - **Tools:** Simulink, Realis WAVE
 - **Goal:** Model combustion dynamics of a hydrogen-fuelled ICE
 - **Outcome:** Validated pressure/temperature outputs; assessed feasibility vs petrol ICE.
-- [View Project Folder](.H2ICE-Simulation/project-notes.md)
+- [View Project Folder](./H2ICE-Simulation/project-notes.md)
 
 ---
 

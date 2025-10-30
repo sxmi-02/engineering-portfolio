@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Sami Khan
-A final-year Automotive Engineering student with a passion for powertrain systems, simulation, and quality assurance. This portfolio showcases selected engineering projects using Simulink, MATLAB, Realis WAVE, and CAD software.
+An Automotive Engineering graduate from Loughborough University with a passion for powertrain systems, simulation, and quality assurance. This portfolio showcases selected engineering projects using Simulink, MATLAB, Realis WAVE, SQL, and CAD software.
 
 ---
 
 ## 🔧 Featured Projects
+
+### 🛩️ Aviation Safety Incident Database
+- **Tools:** SQL, SQLite, Flask, Python  
+- **Goal:** Design and implement a relational database to log, query, and analyze global aviation safety incidents for trend identification and risk assessment  
+- **Outcome:** Built a normalized (3NF) database with optimized queries and a Flask-based web interface for data visualization  
+- [View Project Folder](./Aviation-Safety-Database/project-notes.md)
+
+---
 
 ### 🚗 Hydrogen ICE Engine Simulation
 - **Tools:** Simulink, Realis WAVE
